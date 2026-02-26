@@ -35,6 +35,12 @@
         "height": 466,
         "radius": 233
     },
+    "xiaomi_watch_5": {
+        "string": "Xiaomi Watch 5",
+        "width": 480,
+        "height": 480,
+        "radius": 240
+    },
     "redmi/poco_watch": {
         "string": "Redmi/Poco Watch",
         "width": 320,

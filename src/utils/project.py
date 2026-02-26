@@ -66,6 +66,7 @@ class FprjProject:
             "366": "xiaomi_band_9",
             "367": "xiaomi_band_9_pro",
             "462": "xiaomi_watch_s4",
+            "562": "xiaomi_watch_5",
             "465": "redmi_watch_5",
             "466": "xiaomi_band_10",
             "3651": "redmi_watch_5_active",

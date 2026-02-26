@@ -41,6 +41,7 @@ class WatchData(QObject):
             "xiaomi_band_9",
             "xiaomi_band_9_pro",
             "xiaomi_watch_s4",
+            "xiaomi_watch_5",
             "redmi_watch_5",
             "redmi_watch_5_active",
             "redmi_watch_5_lite"
@@ -303,6 +304,7 @@ class WatchData(QObject):
                 "xiaomi_watch_s1_pro": "Xiaomi Watch S1 Pro",
                 "xiaomi_watch_s3": "Xiaomi Watch S3",
                 "xiaomi_watch_s4": "Xiaomi Watch S4",
+                "xiaomi_watch_5": "Xiaomi Watch 5",
                 "redmi/poco_watch": "Redmi/Poco Watch",
                 "redmi_watch_2_lite": "Redmi Watch 2 Lite",
                 "redmi_watch_3": "Redmi Watch 3",
@@ -329,6 +331,7 @@ class WatchData(QObject):
                 "redmi_watch_5": 103,
                 "xiaomi_band_8": 100,
                 "xiaomi_band_9": 100,
+                "xiaomi_watch_5": 240,
                 "redmi_watch_5_active": 82,
                 "redmi_watch_5_light": 116,
             }
